@@ -1,5 +1,5 @@
 ---
-title: '[Group 2_Kharanshu]PCA - Oasis_Cross_Sectional'
+title: 'Kharanshu Patel - Principal Component Analysis - Oasis_Cross_Sectional'
 author: "Kharanshu Patel"
 date: "9/8/2018"
 output:
